@@ -1,0 +1,113 @@
+cantidad de registro del termino carcinoma
+      2 Ehrlich tumor carcinoma
+      6 Merkel cell carcinoma
+      8 NUT midline carcinoma
+      3 acinar cell carcinoma
+     13 adenoid cystic carcinoma
+      3 adenosquamous carcinoma
+      8 adrenocortical carcinoma
+      2 ampulla of Vater carcinoma
+      1 anal carcinoma
+      4 anal squamous cell carcinoma
+     20 basal cell carcinoma
+     35 bladder carcinoma
+      1 bladder squamous cell carcinoma
+     19 bladder urothelial carcinoma
+    131 breast carcinoma
+     17 breast ductal carcinoma
+      1 breast metaplastic carcinoma
+      2 breast secretory carcinoma
+      3 bronchus carcinoma
+      1 carcinoma of supraglottis
+     17 cervical squamous cell carcinoma
+     63 cervix carcinoma
+      2 choroid plexus carcinoma
+      2 chromophobe renal cell carcinoma
+     85 clear cell renal cell carcinoma
+     44 colon carcinoma
+     98 colorectal carcinoma
+     12 differentiated thyroid gland carcinoma
+      1 distal biliary tract carcinoma
+     13 embryonal carcinoma
+      2 embryonal testis carcinoma
+     61 endometrial carcinoma
+      1 endometrial squamous cell carcinoma
+      5 endometrioid ovary carcinoma
+     35 esophageal carcinoma
+    377 esophagus squamous cell carcinoma
+      1 fallopian tube carcinoma
+      5 familial medullary thyroid carcinoma
+      5 familial renal papillary carcinoma
+      5 familiar ovarian carcinoma
+      2 fibrolamellar carcinoma
+      9 gallbladder carcinoma
+      1 gastrointestinal carcinoma
+      5 head and neck carcinoma
+    240 head and neck squamous cell carcinoma
+    680 hepatocellular carcinoma
+      3 hereditary renal cell carcinoma
+      7 inflammatory breast carcinoma
+     11 invasive ductal carcinoma
+      9 invasive lobular carcinoma
+      3 large cell carcinoma
+      5 large cell neuroendocrine carcinoma
+     14 laryngeal carcinoma
+     32 laryngeal squamous cell carcinoma
+     47 liver carcinoma
+     18 luminal breast carcinoma A
+     27 luminal breast carcinoma B
+      3 lung adenoid cystic carcinoma
+     59 lung carcinoma
+      2 lung giant cell carcinoma
+      4 lung large cell carcinoma
+    797 lung non-small cell carcinoma
+      5 lung oat cell carcinoma
+      2 lung sarcomatoid carcinoma
+    140 lung small cell carcinoma
+     57 lung squamous cell carcinoma
+      3 mammary analogue secretory carcinoma
+      4 mucoepidermoid carcinoma
+      2 myoepithelial carcinoma
+    120 nasopharynx carcinoma
+      9 neuroendocrine carcinoma
+      1 nonpapillary renal cell carcinoma
+     96 oral squamous cell carcinoma
+    146 ovarian carcinoma
+      8 ovarian clear cell carcinoma
+      5 ovarian serous carcinoma
+     54 pancreatic carcinoma
+      8 pancreatic ductal carcinoma
+      7 pancreatic endocrine carcinoma
+      9 papillary carcinoma
+     17 papillary renal cell carcinoma
+     14 parathyroid carcinoma
+      2 penis squamous cell carcinoma
+      1 peritoneal carcinoma
+      1 pleomorphic adenoma carcinoma
+     40 prostate carcinoma
+     38 renal carcinoma
+    156 renal cell carcinoma
+      1 salivary gland adenoid cystic carcinoma
+      2 salivary gland carcinoma
+      5 sarcomatoid carcinoma
+      2 sebaceous carcinoma
+     19 skin carcinoma
+     42 skin squamous cell carcinoma
+      6 small cell carcinoma
+      1 small intestine carcinoma
+      5 small-cell carcinoma of the ovary of hypercalcemic type
+    113 squamous cell carcinoma
+     84 stomach carcinoma
+      3 supraglottis squamous cell carcinoma
+      1 thymic carcinoma
+      1 thymus squamous cell carcinoma
+     11 thyroid gland anaplastic carcinoma
+     60 thyroid gland carcinoma
+     21 thyroid gland follicular carcinoma
+     23 thyroid gland medullary carcinoma
+     91 thyroid gland papillary carcinoma
+      1 tongue carcinoma
+     17 tongue squamous cell carcinoma
+     37 transitional cell carcinoma
+      4 uterine corpus endometrial carcinoma
+      3 vulva squamous cell carcinoma
